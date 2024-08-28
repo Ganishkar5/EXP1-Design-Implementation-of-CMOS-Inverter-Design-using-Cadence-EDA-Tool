@@ -63,7 +63,7 @@ ii)	Create Schematic Cell view.
 •	Library Name and Cell Name must be same which you have used for schematic. Press OK
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
-
+![Screenshot 2024-08-28 154626](https://github.com/user-attachments/assets/2cf3ce8e-6f36-4a83-ac8c-a1daaab3044d)
 
 
 iv)	Creating the new test cell view
@@ -75,13 +75,13 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
-
-![Screenshot 2024-08-28 154626](https://github.com/user-attachments/assets/2cf3ce8e-6f36-4a83-ac8c-a1daaab3044d)
-
+![Screenshot 2024-08-28 155627](https://github.com/user-attachments/assets/e3a0de60-179d-4dfe-ac2b-ee562699bd3a)
 
 
- 
-Analog simulation by SPECTRE.
+
+
+
+ Analog simulation by SPECTRE.
 •	In test cell view window
 •	Launch – ADE L(Analog Design Environment)
 	Execute Setup—Simulation/directory/Host A new window opens
@@ -104,7 +104,8 @@ For Transient Analysis Settings and Output
  For DC Analysis Settings and Output
 ![image](https://github.com/user-attachments/assets/0ee74107-e03a-4204-b685-83ced611c993)
 
-![Screenshot 2024-08-28 160245](https://github.com/user-attachments/assets/020dc167-d766-4cc3-a2cd-ed5c8f80e77e)
+![Screenshot 2024-08-28 160418](https://github.com/user-attachments/assets/de6cdfb4-2b24-4cf5-bf1f-172fd82272d9)
+
 
 
  
