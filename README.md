@@ -118,6 +118,11 @@ iv)	Creating the new test cell view
  ![gani8](https://github.com/user-attachments/assets/66aa9a66-ddc1-4ac5-b120-b272aa566890)
 
 
+
+
+
+
+
 ### Results:
 1.	Successfully designed the CMOS inverter schematic using Cadence EDA tools.
 2.	The simulation results demonstrated the correct logic operation of the inverter, where the output voltage switches between high (Vdd) and low (0V) levels, corresponding to the input voltage transitions.
